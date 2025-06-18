@@ -1,4 +1,4 @@
-package com.mini_project.Controller;
+package com.mini_project.controller;
 
 import java.util.List;
 import java.util.Map;
